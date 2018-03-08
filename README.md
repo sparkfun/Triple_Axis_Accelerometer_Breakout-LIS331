@@ -20,6 +20,7 @@ Documentation
 --------------
 * **[SparkFun Fritzing repo](https://github.com/sparkfun/Fritzing_Parts)** - Fritzing diagrams for SparkFun products.
 * **[SparkFun 3D Model repo](https://github.com/sparkfun/3D_Models)** - 3D models of SparkFun products. 
+* **[Project Tutorial](https://learn.sparkfun.com/tutorials/raspberry-pi-zero-helmet-impact-force-monitor)** - Project tutorial using the LIS331 on a Raspberry Pi. The code used in the project uses Python and linked in a [different GitHub repository](https://github.com/jenfoxbot/ImpactForceMonitor). 
 
 License Information
 -------------------
